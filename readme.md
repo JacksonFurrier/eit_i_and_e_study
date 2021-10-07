@@ -1,0 +1,1 @@
+This is the template file for the innovation and entrepreneurship course on the compute engines in healthcare topic. The tex is self contained, one thing is that you will need to convert the svg file in the images folder to pdf to make the whole project compile. 
